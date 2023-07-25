@@ -1,0 +1,9 @@
+from google.colab import drive
+drive.mount('/content/drive')    ## to used the model which was saved on the drive
+
+
+## install all needed dependencies to run the model
+!pip install -r requirements.txt   
+
+## run the model on streamlit
+!streamlit run main.py & npx localtunnel --port 8501   

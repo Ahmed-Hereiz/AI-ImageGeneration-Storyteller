@@ -1,0 +1,8 @@
+streamlit
+transformers[torch]
+transformers
+torch
+torchvision
+diffusers
+accelerate
+xformers
