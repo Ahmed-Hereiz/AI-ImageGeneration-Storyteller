@@ -135,12 +135,6 @@
 </div>
 <br>
 
-### Entering to the prompt : `Alien` and choosing `thriller` to generate the story
-<div style="display: flex; justify-content: flex-start;">
-    <img src="storymodel_generated_outputs/aliens_thriller_story.png" alt="Image Description" width="900" height="300">
-</div>
-<br>
-
 ### Entering to the prompt : `Robot army` and choosing `horror` to generate the story
 <div style="display: flex; justify-content: flex-start;">
     <img src="storymodel_generated_outputs/robot_army_horror_story.png" alt="Image Description" width="900" height="300">
